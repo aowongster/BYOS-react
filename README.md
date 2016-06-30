@@ -23,3 +23,13 @@ Compile
 ```
 npm run compile
 ```
+
+Todos ( taken from last step where to go next )
+---
+* CSS processor(s)
+* HMR / Auto Reload
+* Routing
+* Flux/Redux/MobX
+* Server-side rendering
+* Database
+* AJAX / Networking
